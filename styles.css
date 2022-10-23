@@ -62,7 +62,8 @@ a:visited {
 /* «Источник: https://siteclinic.ru/blog/technical-aspects/3-sposoba-bystro-adaptirovat-sayt/» */
 
 .info-text {
-  margin-left: 60px;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
 .info-text h4 {
